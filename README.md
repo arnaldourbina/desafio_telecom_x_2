@@ -47,10 +47,6 @@ Ejemplo de visualización inicial de la proporción de cancelaciones:
 
 ## 🧠 Modelos de Machine Learning
 
-### 🔹 Random Forest
-
-![Importancia - Random Forest](imagenes/feature_importance_rf.png)
-
 ### 🔹 Regresión Logística
 
 ![Coeficientes - Regresión Logística](imagenes/feature_importance_log.png)
